@@ -139,7 +139,7 @@ All resource names follow the pattern `${var.project_name}-<resource>-${var.envi
 ![CloudWatch](screenshots/cloudwatch.jpg)
 
 ### Terraform Destroy
-![Destroy](screenshots/terraformdestroy.png)
+![Destroy](screenshots/terraformdestroy.jpg)
 
 ---
 
