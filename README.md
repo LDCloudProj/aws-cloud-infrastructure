@@ -127,21 +127,19 @@ All resource names follow the pattern `${var.project_name}-<resource>-${var.envi
 ## Screenshots
 
 ### EC2 Instance
-![EC2](screenshots/ec2.png)
+![EC2](screenshots/ec2.jpg)
 
 ### VPC
-![VPC](screenshots/vpc.png)
+![VPC](screenshots/vpc.jpg)
 
 ### S3 Bucket
-![S3](screenshots/s3.png)
+![S3](screenshots/s3bucket.jpg)
 
 ### CloudWatch Alarm
-![CloudWatch](screenshots/cloudwatch.png)
+![CloudWatch](screenshots/cloudwatch.jpg)
 
 ### Terraform Destroy
-![Destroy](screenshots/destroy.png)
-
-> Note: Update the filenames to match the actual files in your screenshots folder.
+![Destroy](screenshots/terraformdestroy.png)
 
 ---
 
